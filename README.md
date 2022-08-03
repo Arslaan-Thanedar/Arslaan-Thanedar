@@ -8,15 +8,15 @@
 </p>
 
 
-<!-- **Younus-Saberi/Younus-Saberi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on MS Azure Services
 - 🌱 I’m currently learning Cloud Computing
 - 👯 I’m looking to collaborate on software development
-- 🤔 I’m looking for help with OpenSource
-- 💬 Ask me about Java
+- 🤔 I’m looking for help with DevOps Tools
+- 💬 Ask me about Cloud Computing
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/arslaan-thanedar-59553921b/)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact:  -->
