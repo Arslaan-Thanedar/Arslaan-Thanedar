@@ -14,10 +14,10 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on MS Azure Services
 - 🌱 I’m currently learning Cloud Computing
-- 👯 I’m looking to collaborate on software development
+- 👯 I’m looking to collaborate on Software Development
 - 🤔 I’m looking for help with DevOps Tools
 - 💬 Ask me about Cloud Computing
-- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/arslaan-thanedar-59553921b/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arslaan-thanedar-59553921b/)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact:  -->
 
