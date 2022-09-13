@@ -20,7 +20,3 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arslaan-thanedar-59553921b/)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact:  -->
-
-![Arslaan Thanedar stats](https://github-readme-stats.vercel.app/api?username=Arslaan-Thanedar&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arslaan-Thanedar&layout=compact)](https://github.com/Younus-Saberi/github-readme-stats)
