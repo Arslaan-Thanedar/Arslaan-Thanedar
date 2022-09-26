@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQFs-3P6s5h12g/profile-displaybackgroundimage-shrink_350_1400/0/1643285422279?e=2147483647&v=beta&t=LnZjWTcKtR9h2PTWm4-qaY7WsPWVl_B79_BJkE1Pnm8" alt="Root">
 
@@ -21,5 +21,7 @@ Here are some ideas to get you started: -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact:  -->
 
+
+## 🚀 Hacktober init...
 
 ![App Screenshot](Hacktober.jpeg)
