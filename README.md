@@ -20,3 +20,6 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arslaan-thanedar-59553921b/)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact:  -->
+
+
+[![@Arslaan's Holopin board](https://holopin.io/api/user/board?user=Arslaan)](https://holopin.io/@Arslaan)
