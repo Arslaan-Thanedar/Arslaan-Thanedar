@@ -22,4 +22,4 @@ Here are some ideas to get you started: -->
 <!-- - ⚡ Fun fact:  -->
 
 
-[![@Arslaan's Holopin board](https://holopin.io/api/user/board?user=Arslaan)](https://holopin.io/@Arslaan)
+![App Screenshot](Hacktober.jpeg)
