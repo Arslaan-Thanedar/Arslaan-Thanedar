@@ -23,7 +23,8 @@ Here are some ideas to get you started: -->
 
 
 
-##
-## 🚀 Hacktober init...
+#
+🚀 Hacktober init...
+#
 
 ![App Screenshot](Hacktober.jpeg)
